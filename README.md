@@ -24,6 +24,8 @@ Execute the programs and publish them.
 
 ## CODE
 
+```
+
 map.html
 
 <html lang="en">
@@ -179,12 +181,18 @@ you can book your tickets in online mode also through the bookmyshow.
 </body>
 </html>
 
-
+```
 
 ## OUTPUT
-
+![Output](./pics/city.png)
+![Output](./pics/river.png)
+![Output](./pics/rock.png)
+![Output](./pics/school.png)
+![Output](./pics/temple.png)
+![Output](./pics/theatre.png)
 
 ## HTML VALIDATOR
+![Output](./pics/validator.png)
 
 
 ## RESULT
